@@ -37,6 +37,10 @@ public class ImplementarClass extends MasterClass implements InterfaceOne, Inter
     public void m5() {
         System.out.println("Hey ! method m5 is used");
     }
+    
+    public  void RamLeela()  {
+        System.out.println("Ram Chahe Leela ... ");
+    }
 
     public static void main(String[] args) {
 
@@ -54,6 +58,10 @@ public class ImplementarClass extends MasterClass implements InterfaceOne, Inter
         InterfaceTwo i2 = new ImplementarClass();
 
         i2.m5();
+        i1.RamLeela();
+        
+        
+        System.out.println("Value of x : "+InterfaceTwo.x);
 
     }
 

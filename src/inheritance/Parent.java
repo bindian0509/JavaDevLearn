@@ -2,7 +2,7 @@ package inheritance;
 
 public class Parent {
 	
-	
+	static int a= 10; 
 	
 	Parent () {
 		System.out.println("Class parent is called .... what are you waiting for !");

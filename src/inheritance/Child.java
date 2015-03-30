@@ -1,6 +1,8 @@
 package inheritance;
 
 public class Child extends Parent {
+    
+        static int a=100;
 	
 	public void method_c1()  {}
 	

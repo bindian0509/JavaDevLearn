@@ -8,14 +8,13 @@ public class Inhertiancer extends Child {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Parent p = new Parent();
-		
+                System.out.println("Value of a via parent : "+p.a);
+                    
 		final Parent peepoo;
 		
 		Parent leepoo = new Parent();
 		
-		peepoo = leepoo;
-		
-			
+		peepoo = leepoo;					
 		
 		System.out.println(peepoo.method_p1(22, 22));
 		
@@ -26,6 +25,8 @@ public class Inhertiancer extends Child {
 		//System.out.println(p.toBeOverRiddenMethod("Bharat"));
 		
 		Child c = new Child();
+                
+                System.out.println("Value of a via child : "+c.a);
 		
 		String pqr = new String("India");
 		System.out.println(c.toBeOverRiddenMethod(pqr));
