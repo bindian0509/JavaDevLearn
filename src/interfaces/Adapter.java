@@ -26,4 +26,9 @@ public class Adapter implements InterfaceOne {
     public void m5() {
     	System.out.println("Hey ! method m5 is used");
     }
+
+    @Override
+    public void RamLeela() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
