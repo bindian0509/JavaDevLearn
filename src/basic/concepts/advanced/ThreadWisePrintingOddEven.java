@@ -9,12 +9,14 @@ package basic.concepts.advanced;
  *
  * @author Bharat
  */
-public class Driver {
+public class ThreadWisePrintingOddEven {
 
     static Object lock = new Object();
     public static final int N = 10;
     public static void main(String[] args) {
         Thread t1 = new Thread(new Runnable() {
+            
+            @Override
             public void run() {
 
                 for (int itr = 1; itr < N+1; itr = itr + 2) {
