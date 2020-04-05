@@ -10,7 +10,7 @@ import java.util.*;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 
 class Calculator {

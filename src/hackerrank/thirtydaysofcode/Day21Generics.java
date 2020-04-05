@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 public class Day21Generics {
 

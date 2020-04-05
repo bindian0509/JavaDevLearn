@@ -7,7 +7,7 @@ package datastructures;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 //Java implementation to check if given Binary tree
 //is a BST or not

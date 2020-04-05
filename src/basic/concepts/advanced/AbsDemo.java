@@ -7,7 +7,7 @@ package basic.concepts.advanced;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 
 abstract class myAbsClass {

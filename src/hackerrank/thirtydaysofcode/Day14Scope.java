@@ -7,7 +7,7 @@ package hackerrank.thirtydaysofcode;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 import java.io.*;
 import java.util.*;

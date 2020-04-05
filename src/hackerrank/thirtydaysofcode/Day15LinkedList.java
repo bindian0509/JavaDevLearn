@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 class Node {
 

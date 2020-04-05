@@ -42,7 +42,7 @@ class MyBook extends Book {
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 public class Day13AbstractClass {
  

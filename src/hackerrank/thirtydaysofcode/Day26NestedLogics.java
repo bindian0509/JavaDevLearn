@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author BHARAT VERMA <bharat.verma@shopclues.com>
+ * @author BHARAT VERMA <>
  */
 public class Day26NestedLogics {
 
